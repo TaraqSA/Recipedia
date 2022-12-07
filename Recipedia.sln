@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recipedia", "Recipedia.csproj", "{EA12282F-4A30-4B44-87DB-3CC7DA203554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA12282F-4A30-4B44-87DB-3CC7DA203554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA12282F-4A30-4B44-87DB-3CC7DA203554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA12282F-4A30-4B44-87DB-3CC7DA203554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA12282F-4A30-4B44-87DB-3CC7DA203554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF3A1B9-D3C4-4DBE-87C4-FC9CD7CAD553}
+	EndGlobalSection
+EndGlobal
